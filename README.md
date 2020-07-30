@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Apps</summary>
-  <h4><a href="https://github.com/isair/notepad-pwa>notepad-pwa</a></h4>
+  <h4><a href="https://github.com/isair/notepad-pwa">notepad-pwa</a></h4>
   <p>🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.</p>
 </details>
 
@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   <h4><a href="https://github.com/isair/flutter-functional-components-with-hooks-demo">flutter-functional-components-with-hooks-demo</a></h4>
   <p>About
 A simple Flutter app with functional components and hooks. Done quickly to learn the basics of Flutter.</p>
+  <h4><a href="https://github.com/isair/QuantumPlayground">QuantumPlayground</a></h4>
+  <p>Clone, and open folder with Visual Studio Code to quickly have a working quantum programming playground.</p>
   <h4><a href="https://github.com/isair/headlines">Headlines</a></h4>
   <p>Simple article reader with springy interactive animations and network state handling. Made for a job interview in 4 hours, back in 2015.</p>
 </details>
