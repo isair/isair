@@ -29,13 +29,15 @@ Here are some ideas to get you started:
   <summary>Apps</summary>
   <h4><a href="https://github.com/isair/notepad-pwa">notepad-pwa</a></h4>
   <p>🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.</p>
+  <h4><a href="https://github.com/isair/KURadyo">KURadyo</a></h4>
+  <p><i>🛑 No longer maintained. This is a pretty old app built with old technologies.</i></p>
+  <p>The official mobile radio application of Koç University.</p>
 </details>
 
 <details>
   <summary>Example Projects</summary>
   <h4><a href="https://github.com/isair/flutter-functional-components-with-hooks-demo">flutter-functional-components-with-hooks-demo</a></h4>
-  <p>About
-A simple Flutter app with functional components and hooks. Done quickly to learn the basics of Flutter.</p>
+  <p>A simple Flutter app with functional components and hooks. Done quickly to learn the basics of Flutter.</p>
   <h4><a href="https://github.com/isair/QuantumPlayground">QuantumPlayground</a></h4>
   <p>Clone, and open folder with Visual Studio Code to quickly have a working quantum programming playground.</p>
   <h4><a href="https://github.com/isair/headlines">Headlines</a></h4>
@@ -48,6 +50,9 @@ A simple Flutter app with functional components and hooks. Done quickly to learn
   <p>A video component for react-native</p>
   <h4><a href="https://gist.github.com/isair/aabe5ac37ea4ee92a900157acda7d4a3">SVG to PNG (gist)</a></h4>
   <p>ts-node script for converting all SVG files in a directory to @1x @2x @3x PNG files, files are processed in parallel for optimal performance</p>
+  <h4><a href="https://github.com/isair/react-native-smart-assets">react-native-smart-assets</a></h4>
+  <p><i>🛑 No longer maintained as it is superseded by the above ts-node script.</i></p>
+  <p>✅ Automatically generate an Images module from your image assets. Converts intelligently (e.g. PDF to @2x, @3x etc).</p>
 </details>
 
 <details>
@@ -56,12 +61,16 @@ A simple Flutter app with functional components and hooks. Done quickly to learn
   <p>Jedi Academy server solution without any headaches. With RTVRTM. Dockerized.</p>
   <h4><a href="https://github.com/isair/jacontrol-desktop">JAControl Desktop</a></h4>
   <p>A cross-platform, portable rcon GUI tool built for Jedi Academy using JDK 9.</p>
+  <h4><a href="https://github.com/isair/OpenChess">OpenChess</a></h4>
+  <p>A cross-platform chess game.</p>
 </details>
 
 <details>
   <summary>iOS & macOS Libraries</summary>
   <h4><a href="https://github.com/isair/ManualLayout">ManualLayout</a></h4>
   <p>✂ Easy to use and flexible library for manually laying out views and layers for iOS and tvOS. Supports AsyncDisplayKit.</p>
+  <h4><a href="https://github.com/isair/Toasty">Toasty</a></h4>
+  <p>App extension compatible Toast library for iOS, and tvOS. Written in Swift.</p>
   <h4><a href="https://github.com/isair/JSONHelper">JSONHelper</a></h4>
   <p><i>🛑 No longer maintained due to improvements to Swift making its main functionality obsolete.</i></p>
   <p>✌ Convert anything into anything in one operation; JSON data into class instances, hex strings into UIColor/NSColor, y/n strings to booleans, arrays and dictionaries of these; anything you can make sense of!</p>
