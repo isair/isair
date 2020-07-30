@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   <h4><a href="https://github.com/isair/JSONHelper">JSONHelper</a></h4>
   <p><i>🛑 No longer maintained due to improvements to Swift making its main functionality obsolete.</i></p>
   <p>✌ Convert anything into anything in one operation; JSON data into class instances, hex strings into UIColor/NSColor, y/n strings to booleans, arrays and dictionaries of these; anything you can make sense of!</p>
-  <h4><a href="(https://github.com/sahin/mobileplayer-ios">MobilePlayer</a></h4>
+  <h4><a href="https://github.com/sahin/mobileplayer-ios">MobilePlayer</a></h4>
   <p><i>🛑 No longer maintained due to ownership issues.</i></p>
   <p>📱 🎥 A powerful and completely customizable media player for iOS</p>
 </details>
