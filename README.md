@@ -18,12 +18,32 @@ Here are some ideas to get you started:
 [Notepad PWA](https://github.com/isair/notepad-pwa)
 🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.
 
+[tensorflow-load-csv](https://github.com/isair/tensorflow-load-csv)
+Create tensors directly from CSV files. Shuffle, split test data, standardise features, prepend ones, etc with ease.
+
 #### 🌱 Other recent projects
 
 [dotfiles](https://github.com/isair/dotfiles)
 🖥️ Set up a new machine or your cloud dev environment with one command. Run daily maintenance, back-up, and restore.
 
 #### ⚡ All projects
+
+<details>
+  <summary>Machine Learning Libraries</summary>
+  <h4><a href="https://github.com/isair/tensorflow-load-csv">tensorflow-load-csv</a></h4>
+  <p>Create tensors directly from CSV files. Shuffle, split test data, standardise features, prepend ones, etc with ease.</p>
+</details>
+
+<details>
+  <summary>React Native Libraries</summary>
+  <h4><a href="https://github.com/react-native-community/react-native-video">react-native-video</a></h4>
+  <p>A video component for react-native</p>
+  <h4><a href="https://gist.github.com/isair/aabe5ac37ea4ee92a900157acda7d4a3">SVG to PNG (gist)</a></h4>
+  <p>ts-node script for converting all SVG files in a directory to @1x @2x @3x PNG files, files are processed in parallel for optimal performance</p>
+  <h4><a href="https://github.com/isair/react-native-smart-assets">react-native-smart-assets</a></h4>
+  <p><i>🛑 No longer maintained as it is superseded by the above ts-node script.</i></p>
+  <p>✅ Automatically generate an Images module from your image assets. Converts intelligently (e.g. PDF to @2x, @3x etc).</p>
+</details>
 
 <details>
   <summary>Apps</summary>
@@ -42,17 +62,6 @@ Here are some ideas to get you started:
   <p>Clone, and open folder with Visual Studio Code to quickly have a working quantum programming playground.</p>
   <h4><a href="https://github.com/isair/headlines">Headlines</a></h4>
   <p>Simple article reader with springy interactive animations and network state handling. Made for a job interview in 4 hours, back in 2015.</p>
-</details>
-
-<details>
-  <summary>React Native Libraries</summary>
-  <h4><a href="https://github.com/react-native-community/react-native-video">react-native-video</a></h4>
-  <p>A video component for react-native</p>
-  <h4><a href="https://gist.github.com/isair/aabe5ac37ea4ee92a900157acda7d4a3">SVG to PNG (gist)</a></h4>
-  <p>ts-node script for converting all SVG files in a directory to @1x @2x @3x PNG files, files are processed in parallel for optimal performance</p>
-  <h4><a href="https://github.com/isair/react-native-smart-assets">react-native-smart-assets</a></h4>
-  <p><i>🛑 No longer maintained as it is superseded by the above ts-node script.</i></p>
-  <p>✅ Automatically generate an Images module from your image assets. Converts intelligently (e.g. PDF to @2x, @3x etc).</p>
 </details>
 
 <details>
