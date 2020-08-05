@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.
 
 [tensorflow-load-csv](https://github.com/isair/tensorflow-load-csv)
-🤖 Create tensors directly from CSV files. Shuffle, split test data, standardise features, prepend ones, etc with ease.
+🤖 Create tensors directly from CSV files. Supports operations like standardisation so you can dive right into the fun parts of ML.
 
 #### 🌱 Other recent projects
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <details>
   <summary>Machine Learning Libraries</summary>
   <h4><a href="https://github.com/isair/tensorflow-load-csv">tensorflow-load-csv</a></h4>
-  <p>🤖 Create tensors directly from CSV files. Shuffle, split test data, standardise features, prepend ones, etc with ease.</p>
+  <p>🤖 Create tensors directly from CSV files. Supports operations like standardisation so you can dive right into the fun parts of ML.</p>
 </details>
 
 <details>
