@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### 🌱 Other recent projects
 
 [dotfiles](https://github.com/isair/dotfiles)
-🖥️ Set up a new machine or your cloud dev environment with one command. Run daily maintenance, back-up, and restore.
+🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
 
 #### ⚡ All projects
 
