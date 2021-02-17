@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 #### 🔭 Currently working on
 
-[Notepad PWA](https://github.com/isair/notepad-pwa)
-🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.
-
 [tensorflow-load-csv](https://github.com/isair/tensorflow-load-csv)
 🤖 Create tensors directly from CSV files. Supports operations like standardisation so you can dive right into the fun parts of ML.
+
+[Notepad PWA](https://github.com/isair/notepad-pwa)
+🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.
 
 #### 🌱 Other recent projects
 
