@@ -13,15 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 Currently working on
-
-[tensorflow-load-csv](https://github.com/isair/tensorflow-load-csv)
-🤖 Create tensors directly from CSV files. Supports operations like standardisation so you can dive right into the fun parts of ML.
-
-[Notepad PWA](https://github.com/isair/notepad-pwa)
-🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.
-
-#### 🌱 Other recent projects
+#### 🌱 Featured project of the ambiguous amount of days
 
 [dotfiles](https://github.com/isair/dotfiles)
 🖥️ Backup your packages, apps, and configurations directly to git in the form of profiles. Set up any new (virtual) machine using a profile in one line. Share profiles between multiple machines. Configure auto update, clean-up, and back-up. Works for all linux flavors, Mac OS, and Windows.
