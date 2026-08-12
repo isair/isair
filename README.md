@@ -21,6 +21,17 @@ Here are some ideas to get you started:
 #### ⚡ All projects
 
 <details>
+  <summary>Apps</summary>
+  <h4><a href="https://github.com/isair/notepad-pwa">Jarvis</a></h4>
+  <p>🤖 A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything, knows location and time, can check the web, control Chrome, track nutrition, and more with support for unlimited MCPs / tools without context rot.</p>
+  <h4><a href="https://github.com/isair/notepad-pwa">notepad-pwa</a></h4>
+  <p>🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.</p>
+  <h4><a href="https://github.com/isair/KURadyo">KURadyo</a></h4>
+  <p><i>🛑 No longer maintained. This is a pretty old app built with old technologies.</i></p>
+  <p>The official mobile radio application of Koç University.</p>
+</details>
+
+<details>
   <summary>Machine Learning Libraries</summary>
   <h4><a href="https://github.com/isair/tensorflow-load-csv">tensorflow-load-csv</a></h4>
   <p>🤖 Create tensors directly from CSV files. Supports operations like standardisation so you can dive right into the fun parts of ML.</p>
@@ -35,17 +46,6 @@ Here are some ideas to get you started:
   <h4><a href="https://github.com/isair/react-native-smart-assets">react-native-smart-assets</a></h4>
   <p><i>🛑 No longer maintained as it is superseded by the above ts-node script.</i></p>
   <p>✅ Automatically generate an Images module from your image assets. Converts intelligently (e.g. PDF to @2x, @3x etc).</p>
-</details>
-
-<details>
-  <summary>Apps</summary>
-  <h4><a href="https://github.com/isair/notepad-pwa">Jarvis</a></h4>
-  <p>🤖 A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything, knows location and time, can check the web, control Chrome, track nutrition, and more with support for unlimited MCPs / tools without context rot.</p>
-  <h4><a href="https://github.com/isair/notepad-pwa">notepad-pwa</a></h4>
-  <p>🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.</p>
-  <h4><a href="https://github.com/isair/KURadyo">KURadyo</a></h4>
-  <p><i>🛑 No longer maintained. This is a pretty old app built with old technologies.</i></p>
-  <p>The official mobile radio application of Koç University.</p>
 </details>
 
 <details>
