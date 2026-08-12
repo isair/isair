@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Apps</summary>
+  <h4><a href="https://github.com/isair/notepad-pwa">Jarvis</a></h4>
+  <p>🤖 A 100% private AI voice assistant that lives on your computer (works offline). Talk naturally as if Jarvis is a third person in the room, and get conversational responses. It remembers everything, knows location and time, can check the web, control Chrome, track nutrition, and more with support for unlimited MCPs / tools without context rot.</p>
   <h4><a href="https://github.com/isair/notepad-pwa">notepad-pwa</a></h4>
   <p>🗒️ Lightweight, simple text editor for all platforms. Supports multiple tabs and auto saving. Visit the website and add it to your computer desktop, phone homescreen; use like a native app.</p>
   <h4><a href="https://github.com/isair/KURadyo">KURadyo</a></h4>
